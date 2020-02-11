@@ -1,0 +1,133 @@
+@media screen and (max-width: 1024px) {
+	
+	/*Header ================== */
+	.header {
+		height: 95px;
+	}
+	.header__inner {
+		padding: 35px 0;
+	}
+	.nav__link {
+		font-size: 14px;
+	}
+	/*Intro==============*/
+
+	.intro__text {
+		width: 805px;
+		font-size: 38px;
+
+	}
+	.intro__subtext {
+		font-size: 14px;
+	}
+
+	/*Services ============== */
+
+	.serv__tittle { 
+		font-size: 33px;
+
+	}
+	.serv__text {
+		font-size: 14px;
+		margin-bottom: 70px;
+	}
+	/*Company ===============*/
+	.company {
+		width: 100%;
+		padding-top: 85px;
+		padding-bottom: 0;
+	}
+	.company__icn {
+		width: 495px;
+	}
+	.company__name {
+		font-size: 33px;
+		margin: 35px 0;
+	}
+	.company__text {
+		font-size: 15px;
+	}
+
+	.company__projects {
+		padding-top: 70px;
+	}
+
+	/*Works*/
+	.works {
+		padding: 85px 0;
+	}
+	.works__item {
+		padding: 0px 16px;
+	}
+
+	.works__icn {
+		width: 310px;
+	}
+	.works__name {
+		font-size: 16px;
+	}
+
+	.works__text {
+		width: 310px;
+		font-size: 13px;
+	}
+
+	.works__link {
+		font-size: 14px;
+	}
+
+
+	.jobs {
+		padding: 80px 0;
+	}
+
+	.jobs__tittle {
+		margin-bottom: 45px;
+	}
+	.jobs__subtittle {
+		 margin: 0px auto 60px;
+	}
+
+	.jobs__icon {
+		width: 224px;
+	}
+
+	/*Video */
+	.video_icn {
+		width: 935px;
+}
+	.video__work {
+		width: 285px;
+    	height: 90px;
+		top: 45%;
+	}
+	.youtube {
+		top: 16%;
+		left: 11%;
+	}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

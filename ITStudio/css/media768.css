@@ -1,0 +1,234 @@
+@media screen and (max-width: 768px) {
+
+/*Header ==========*/
+.header {
+	height: 80px;
+}
+
+.header__inner	{
+	display: flex;
+	justify-content: center;
+}
+
+/*Intro ==============*/
+.intro {
+	padding-top: 79px;
+	height: 500px;
+}
+
+.intro__text {
+	width: 596px;
+    font-size: 28px;
+	line-height: 55px;
+	margin-bottom: 35px;
+}
+
+
+.intro__subtext {
+	font-size: 12px;
+	line-height: 18px;
+    margin-bottom: 15px;
+}
+
+
+.intro__button {
+	padding: 13px 30px;
+	font-size: 14px;
+}
+
+/*Services ===============*/
+.services {
+	padding: 80px 0;
+}
+.services__item {
+padding-left: 45px; 
+
+}
+
+.services__name {
+	font-size: 16px;
+	padding-top: 25px;
+	width: 218px;
+    margin-bottom: 10px;
+}
+.services__text {
+	width: 221px;
+	font-size: 12px;
+	margin-bottom: 55px;
+	line-height: 21px;
+}
+.serv__tittle {
+	font-size: 28px;
+	line-height: 48px;
+}
+.serv__text {
+	font-size: 12px;
+    margin-bottom: 64px;
+}
+
+.elipse1 {
+	width: 65px;
+	height: 65px;
+}
+.elipse2 {
+	width: 45px;
+	height: 45px;
+}
+.serv_img {
+	width: 30px;
+	height: 30px;
+}
+
+.services__button {
+	width: 185px;
+	padding: 13px 30px;
+    font-size: 14px;
+}
+
+
+/*Company ===========================*/
+.company {
+	padding-top: 75px;
+}
+.company__items {
+	padding-bottom: 75px;
+}
+.company__name {
+	font-size: 28px;
+    margin: 25px 0;
+}
+
+.company__text {
+	width: 369px;
+	font-size: 13px;
+}
+
+.company__link {
+	font-size: 14px;
+}
+.company__icn {
+	width: 376px;
+}
+.company__projects {
+    padding: 45px 0;
+}
+
+.project__number {
+	font-size: 30px;
+	margin-left: 15px;
+	line-height: 50px;
+	margin-left: 8px;
+}
+.project__text {
+	font-size: 13px;
+}
+
+
+/*Works*/
+.works {
+	padding: 70px 0;
+}
+.works__sup {
+	margin: 0 15px 46px 15px;
+}
+
+.works__tittle {
+	width: 415px;
+    font-size: 28px;
+    line-height: 44px;
+}
+
+.works__button {
+	width: 185px;
+	padding: 13px 30px;
+	font-size: 14px;
+}
+
+.works__icn {
+	width: 223px;
+}
+.name {
+	margin-bottom: 25px;
+}
+.works__text {
+	width: 224px;
+    font-size: 10px;
+    margin-bottom: 25px;
+}
+/*Jobs ===========*/
+ .jobs {
+ 	padding: 70px 0;
+ }
+ .jobs__tittle {
+ 	margin-bottom: 35px;
+ 	font-size: 25px;
+ 	line-height: 35px;
+ }
+
+.jobs__suptittle {
+	margin: 0px auto 50px;
+	font-size: 14px;
+	width: 726px;
+	line-height: 21px;
+}
+.jobs__icon {
+	width: 162px;
+}
+.jobs__button {
+	width: 185px;
+	padding: 13px 30px;
+	font-size: 14px;
+}
+
+
+/*Video ===============*/
+
+.video {
+	padding-top: 70px;
+}
+.video__tittle {
+	font-size: 28px;
+	line-height: 40px;
+	margin-bottom: 25px;
+}
+
+.video__subtittle {
+	font-size: 14px;
+	margin-bottom: 45px;
+}
+.video__image {
+	padding-bottom: 100px;
+}
+
+.video_icn {	
+ 	width: 685px;
+}
+
+
+/*Subcription ===========*/
+
+.subscription {
+	padding: 70px 0;
+}
+
+/*Footer ==============*/
+.footer {
+	padding-top: 60px;
+}
+.footer_name {
+	font-size: 14px;
+	line-height: 24px;
+	margin-bottom: 23px;
+}
+.linked {
+	margin: 12px 0;
+}
+
+
+
+
+
+
+
+
+}

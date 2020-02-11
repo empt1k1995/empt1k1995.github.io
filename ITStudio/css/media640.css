@@ -1,0 +1,295 @@
+@media screen and (max-width: 640px) {
+	/*-----------------Header -----------*/
+	.header {
+		height: 165px;
+		border: none;
+	}
+	.header__inner {
+		display: flex;
+		justify-content: flex-end;
+		padding: 20px 0;
+	}
+	.nav {
+		display: none;
+	}
+
+	.menu-icon {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+	}
+
+/*------------------Intro ---------------*/
+.intro {
+	padding-top: 59px;
+    height: 400px;
+}
+.intro__text {	
+	width: 445px;
+	font-size: 20px;
+    line-height: 33px;
+}
+.intro__button {
+	padding: 10px 20px;
+    font-size: 12px;
+}
+
+/*------------------Services ---------------*/
+.services {
+	padding: 50px 0;
+}
+
+.serv__tittle {
+	width: 445px;
+    font-size: 20px;
+    line-height: 34px;
+    margin-bottom: 25px;
+}
+.serv__text {
+	width: 610px;
+	font-size: 12px;
+    margin-bottom: 50px;
+
+}
+
+.services__items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.services__item {
+	width: 50%;
+	padding-left: 65px;
+}
+
+.services__name {
+	font-size: 14px;
+    padding-top: 20px;
+    width: 210px;
+    margin-bottom: 10px;
+}
+
+
+.services__text {
+	width: 221px;
+    font-size: 11px;
+    margin-bottom: 25px;
+    line-height: 19px;
+}
+
+.services__button {
+	width: 132px;
+	padding: 10px 20px;
+    font-size: 12px;
+}
+/*--------------Company---------------*/
+.company {
+	padding-top: 50px;
+}
+
+.company_items {
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	padding-bottom: 65px;
+}
+.company__item {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.company__name {
+	font-size: 24px;
+    margin: 20px 0;
+}
+
+.company__text {
+	width: 610px;
+	margin: 5px auto;
+	font-size: 12px;
+
+}
+.company__icn {
+	width: 500px;
+}
+
+.project {
+	width: 88px;
+}
+
+/*---------------Works----------------*/
+.works {
+	padding-top: 50px;
+	padding-bottom: 0;
+}
+.works__sup {
+	display: flex;
+	flex-direction: column;
+	margin: 0 15px 35px 15px;
+}
+.works__tittle {
+	font-size: 22px;
+	line-height: 33px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.works__button {
+	width: 132px;
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+.works__sub {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-bottom: 35px;
+	border:none;
+}
+
+.works__item {
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.works:after {
+	bottom: 75%;
+}
+
+.works__icn {
+	width: 290px;
+	margin-bottom: 20px;
+}
+.name {
+	margin-bottom: 13px;
+}
+.works__number {
+	font-size: 16px;
+}
+.works__name {
+	font-size: 14px;
+}
+
+.works__text {
+	width: 288px;
+	margin-bottom: 15px;
+}
+
+/*-----------Jobs--------------*/
+.jobs {
+	padding: 40px 0;
+}
+
+.jobs__tittle {
+	margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.jobs__subtittle {
+	width: 571px;
+    font-size: 12px;
+}
+.jobs__items {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-bottom: 40px;
+}
+.jobs__item {
+	width: 50%;
+	margin-bottom: 15px;
+}
+
+.jobs__icon {
+	width: 288px;
+}
+.jobs__button {
+	width: 132px;
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+/*-----------Video------------*/
+.video {
+	padding-top: 40px;
+}
+.video__tittle {
+	font-size: 22px;
+    line-height: 36px;
+    margin-bottom: 16px;
+}
+
+.video_icn {
+	width: 600px;
+}
+.video__work {
+	width: 242px;
+    height: 76px;
+    top: 38%;
+}
+.youtube {
+	top: 20%;
+    left: 8%;
+}
+.elipse {
+	width: 45px;
+    height: 45px;
+    margin-right: 13px;
+}
+.triger {
+	border-bottom: 10px solid transparent;
+    border-left: 17px solid #4985FF;
+    border-top: 10px solid transparent;
+}
+
+/*---------subscription----------*/
+
+.subscription {
+	padding: 45px 0;
+}
+.subscription__tittle {
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+.subscription__subtittle {
+	font-size: 12px;
+
+}
+.subscription_form {
+	width: 265px;
+    padding: 12px 149px 12px 33px;
+}
+.subscription_btn {
+	font-size: 14px;
+	padding: 12px 24px;
+}
+.subscription__text {
+	font-size: 12px;
+}
+/*------------------Footer ----------------*/
+
+.footer {
+	padding-top: 45px;
+}
+.footer_sup {
+	padding-bottom: 50px;
+}
+.footer__item {
+	width: 25%;
+}
+.footer_name {
+	font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 19px;
+}
+
+.linked {
+	margin: 7px 0;
+}
+.footer__sub {
+	padding: 20px 0;
+}
+
+}

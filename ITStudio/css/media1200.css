@@ -1,0 +1,59 @@
+@media screen and (max-width: 1200px) {
+
+	/* Header */
+
+	.intro__text {
+		font-size: 44px;
+	}
+
+	/*Services*/
+
+	.services {
+		padding: 90px 0;
+	}
+	/*Company */
+
+	.company {
+		padding: 85px 0;
+	}
+	/*Works*/
+	.works {
+		padding: 90px 0;
+	}
+	.works__sup {
+		margin: 0 15px 70px 15px;
+	}
+	/*Jobs*/
+	.jobs {
+		padding: 90px 0;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

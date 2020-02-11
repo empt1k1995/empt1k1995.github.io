@@ -1,0 +1,316 @@
+@media screen and (max-width: 480px) {
+
+/*----------Header----------*/
+.mobile-nav {
+	right: -160px;
+	width: 146px;
+}
+.mobile-nav__list {
+	font-size: 10px;
+
+}
+
+/*--------Intro---------*/
+
+.intro__subtext {
+	font-size: 9px;
+	margin-bottom: 12px;
+}
+
+.intro__text {
+	width: 284px;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.intro__button {
+	padding: 5px 15px;
+    font-size: 10px;
+}
+
+/*--------Services-----------*/
+.services {
+	padding: 35px 0;
+}
+.serv__tittle  {
+	width: 290px;
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+
+.serv__text {
+	width: 450px;
+    font-size: 9px;
+    margin-bottom: 40px;
+    line-height: 19px;
+}
+.services__items {
+	display: block;
+	margin: 5px auto;
+}
+.services__item {
+	width: 100%;
+	padding-left: 50px;
+}
+.services__name {
+	font-size: 10px;
+    width: 135px;
+    margin-bottom: 7px;
+ }
+ .services__text {
+ 	width: 180px;
+    font-size: 9px;
+    margin-bottom: 17px;
+    line-height: 17px;
+ }
+
+.elipse1 {
+	width: 50px;
+    height: 50px;
+}
+.elipse2 {
+	width: 35px;
+    height: 35px;
+}
+.serv_img {
+    width: 20px;
+    height: 20px;
+}
+.services__button  {
+	width: 107px;
+    padding: 5px 15px;
+    font-size: 12px;
+}
+
+/*----------Company-----------*/
+.company {
+	padding-top: 20px;
+}
+.company__name  {
+	font-size: 14px;
+    margin: 10px 0;
+}
+.company_items{
+	padding-bottom: 40px;
+}
+.company__item {
+	margin-bottom: 0;
+}
+.company__text  {
+	margin: 10px auto;
+	width: 450px;
+	font-size: 9px;
+	line-height: 17px;
+}
+.company__link  {
+	font-size: 10px;
+}
+
+.company__icn  {
+	width: 457px;
+}
+
+.company__projects {
+	padding: 35px 0;
+}
+.project__number {
+	font-size: 17px;
+	line-height: 40px;
+    margin-left: 8px;
+}
+.project__text  {
+	font-size: 10px;
+}
+
+/*-----------Works------------*/
+
+.works {
+	padding-top: 30px;
+}
+.works:after  {
+	bottom: 77%;
+}
+.works__tittle  {
+	width: 300px;
+	font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 13px;
+}
+.works__sub {
+	padding-bottom: 0;
+	text-align: center;
+}
+.works__button {
+	width: 107px;
+    padding: 5px 15px;
+    font-size: 12px;
+}
+
+.works__item {
+	width: 100%;
+}
+
+.works__number  {
+	font-size: 13px;
+}
+
+.works__name {
+	font-size: 11px;
+}
+
+.works__text {
+	width: 307px;
+    margin: 0 auto;
+    font-size: 7px;
+    line-height: 16px;
+}
+
+.works__link {
+	font-size: 9px;
+}
+
+/*-------------Jobs--------------*/
+.jobs {
+	padding: 30px;
+}
+
+.jobs__tittle  {
+	margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.jobs__subtittle {
+	width: 360px;
+	margin: 0px auto 35px;
+    font-size: 9px;
+    line-height: 18px;
+}
+.jobs__items {
+	margin-bottom: 25px;
+}
+.jobs__item {
+	width: 50%;
+}
+
+.jobs__icon {
+	width: 183px;
+}
+.jobs__button {
+	width: 107px;
+    padding: 5px 13px;
+    font-size: 12px;
+}
+
+/*--------------Video--------------*/
+
+.video {
+	padding-top: 30px;
+}
+.video__tittle {
+	font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 8px;
+}
+.video__subtittle {
+	font-size: 10px;
+}
+.video_icn {
+	width: 450px;
+}
+.video__work{
+	width: 190px;
+    height: 57px;
+    top: 35%;
+}
+.video__image {
+	padding-bottom: 60px;
+}
+
+.youtube {
+	top: 22%;
+	width: 146px;
+}
+
+.elipse  {
+	width: 30px;
+    height: 30px;
+    margin-right: 9px;
+}
+
+.triger {
+	border-bottom: 8px solid transparent;
+    border-left: 11px solid #4985FF;
+    border-top: 8px solid transparent;
+}
+
+.video__button {
+	font-size: 12px;
+}
+
+/*----------subscription----------*/
+
+.subscription {
+	padding: 35px 0;
+}
+
+.subscription__tittle  {
+	font-size: 12px;
+    margin-bottom: 12px;
+}
+.subscription__subtittle  {
+	font-size: 9px;
+}
+.subscription_form  {
+    width: 199px;
+    padding: 8px 92px 8px 30px;
+}
+.subscription__button {
+	margin-bottom: 25px;
+}
+.subscription_btn {
+	font-size: 12px;
+    padding: 8px 24px;
+}
+.subscription__text  {
+	font-size: 9px;
+}
+
+/*--------Footer------------*/
+.footer  {
+	padding-top: 30px;
+}
+.footer_sup {
+	padding-bottom: 25px;
+}
+.footer_name {
+	font-size: 10px;
+    line-height: 15px;
+    margin-bottom: 18px;
+}
+.information__icn  {
+	margin-right: 9px;
+}
+.linked {
+	font-size: 8px;
+	margin: 4px 0;
+}
+.bas__link {
+	padding-left: 20px;
+}
+.footerSub__text {
+	font-size: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
